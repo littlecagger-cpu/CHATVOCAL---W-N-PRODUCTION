@@ -12,8 +12,8 @@
 module.exports = {
   games: {
 
-    "game_001": {
-      name: "Mon Premier Jeu",       // Nom affiché sur le site
+    "137130062672598": {
+      name: "TESTPLACE",       // Nom affiché sur le site
       proximityRadius: 50,           // Rayon de proximité (unités Roblox)
       apiKey: "cle_secrete_001"      // Clé secrète à mettre dans le script Roblox
     },
